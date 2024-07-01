@@ -288,5 +288,4 @@ garantir uma experiência de usuário suave e intuitiva.
 - [Documentação do React](https://reactjs.org/docs/getting-started.html)
 - [Formik](https://formik.org/)
 - [Yup](https://github.com/jquense/yup)
-- [React Hook Form](https://react-hook-form.com/)#   r e a c t - f o r m s  
- 
+- [React Hook Form](https://react-hook-form.com/)#   r e a c t - f o r m s 
