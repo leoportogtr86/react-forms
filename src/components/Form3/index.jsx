@@ -17,6 +17,9 @@ const Form3 = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
+        if(formData.nome.trim() === ""){
+            return alert("Por favor informe o nome.");
+        }
         alert(`Nome: ${formData.nome}, Email: ${formData.email}`);
     }
     return (
